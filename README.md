@@ -1,4 +1,4 @@
-# Lockdown Protocol 封鎖協定繁體中文化
+![image](https://github.com/user-attachments/assets/570ff6ff-e082-405e-8b36-84adc9c389ba)# Lockdown Protocol 封鎖協定繁體中文化
 
 ## 目錄
 - [如何安裝模組包](#如何安裝模組包)
@@ -18,3 +18,16 @@
 
 ## 如何移除模組
 - 運行遊戲主資料夾中的 `Bat` 檔案，即可完整移除模組。
+![image](https://github.com/user-attachments/assets/2b00da46-0522-4171-8cfb-a05f53d4d17a)
+![image](https://github.com/user-attachments/assets/5c92dce3-2533-400c-9cb9-2ee64d520d0e)
+![image](https://github.com/user-attachments/assets/28eaea96-8b2b-41bc-84e3-1ce68e85573f)
+![image](https://github.com/user-attachments/assets/fbe35c8d-885e-4f94-a0e6-fc526716d51b)
+![image](https://github.com/user-attachments/assets/70705cc6-c3d3-4429-bde8-8943bc12933b)
+![image](https://github.com/user-attachments/assets/677bc9b8-b1ab-4417-970c-5ed2f4f18137)
+![image](https://github.com/user-attachments/assets/90d6cfea-3814-4128-a9e2-72394baaa4b0)
+![image](https://github.com/user-attachments/assets/a282aa55-d33f-4c7b-a27a-14710965285b)
+![image](https://github.com/user-attachments/assets/77048db1-0552-4d93-b041-86c242cba737)
+![image](https://github.com/user-attachments/assets/35e9ebe8-1ada-4622-94e5-8a1fdc00a40b)
+![image](https://github.com/user-attachments/assets/911478b9-6675-4ee0-b99f-a9fbf547025b)
+![image](https://github.com/user-attachments/assets/4fb9dc99-83eb-4368-bd80-1f54046fa270)
+![image](https://github.com/user-attachments/assets/71b72e89-ad93-471b-8725-08be02c9e2af)
