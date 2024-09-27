@@ -1,5 +1,8 @@
 # Lockdown Protocol 封鎖協定繁體中文化
 
+# 本模組包已經包含 UE4SS
+## [UE4SS](https://github.com/UE4SS-RE/RE-UE4SS)原 Github
+
 ## 目錄
 - [如何安裝模組包](#如何安裝模組包)
 - [模組包內容物](#模組包內容物)
