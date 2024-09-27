@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/570ff6ff-e082-405e-8b36-84adc9c389ba)# Lockdown Protocol 封鎖協定繁體中文化
+# Lockdown Protocol 封鎖協定繁體中文化
 
 ## 目錄
 - [如何安裝模組包](#如何安裝模組包)
@@ -18,6 +18,7 @@
 
 ## 如何移除模組
 - 運行遊戲主資料夾中的 `Bat` 檔案，即可完整移除模組。
+![image](https://github.com/user-attachments/assets/570ff6ff-e082-405e-8b36-84adc9c389ba)
 ![image](https://github.com/user-attachments/assets/2b00da46-0522-4171-8cfb-a05f53d4d17a)
 ![image](https://github.com/user-attachments/assets/5c92dce3-2533-400c-9cb9-2ee64d520d0e)
 ![image](https://github.com/user-attachments/assets/28eaea96-8b2b-41bc-84e3-1ce68e85573f)
